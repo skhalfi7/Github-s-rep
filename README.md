@@ -23,6 +23,13 @@ Ce dépôt retrace mon **parcours d’apprentissage en informatique, notamment e
 - Cybersécurité
 - Programmation & scripting
 
+##  Badges & Certifications
+
+|  | Lien |
+|----------|-------|
+| Open Badge Passport |[Open Badge](https://openbadgepassport.com/app/badge/info/822109) |
+| TryHackMe profile | [TryHackMe Badge](https://tryhackme.com/p/khalfisafa70) |
+
 
 
  
