@@ -28,7 +28,7 @@ Ce dépôt retrace mon **parcours d’apprentissage en informatique, notamment e
 |  | Lien |
 |----------|-------|
 | Open Badge Passport |[Open Badge](https://openbadgepassport.com/app/badge/info/822109) |
-| TryHackMe profile | [TryHackMe Badge](https://tryhackme.com/p/khalfisafa70) |
+| TryHackMe profile | [TryHackMe](https://tryhackme.com/p/khalfisafa70) |
 
 
 
